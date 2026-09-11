@@ -1,0 +1,37 @@
+/*Background colours */
+header, footer {background-color:black;}
+nav {background-color:darkgreen;}
+main {background-color:lightgreen;}
+
+/*Text Properties */
+h1 {font-size:32px;
+	color:aliceblue;
+	font-family: Tahoma;
+text-align: center;}
+
+/* Navigation List Properties */
+nav ul {list-style-type:none}
+a {color:white;font-family: Tahoma;}
+Nav ul li {Float:left;width:120px;text-align:center}
+nav ul li a {display:block;padding:10px}
+nav ul li a:hover {background-color:#edd9c0;color:#7d4627}
+
+nav {height:38px}
+
+
+
+/*Margins */
+nav, main, footer {margin-top:5px}
+section {margin:5px}
+body {margin:auto}
+
+p {margin-bottom:15px}
+
+P {
+	color:darkblue;
+	font-size: 18px;
+	font-family: Tahoma;
+
+}
+
+
